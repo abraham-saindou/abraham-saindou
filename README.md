@@ -5,7 +5,6 @@ About me : I'm a 26-years-old French student from La Plateforme_ in Marseille. I
 Contacts : 
 <a href="https://www.linkedin.com/in/abraham-saindou">LinkedIn</a>
 
-
 abraham.saindou@laplateforme.io
 
 Skills : My Skills My Skills
