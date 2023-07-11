@@ -3,7 +3,7 @@
 About me : I'm a 26-years-old French student from La Plateforme_ in Marseille. I would like to become a Software Developer. In my repository you may find projects I have finished and other projects I am still working on it.
 
 Contacts : 
-LinkedIn 
+https://www.linkedin.com/in/abraham-saindou
 abraham.saindou@laplateforme.io
 
 Skills : My Skills My Skills
