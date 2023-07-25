@@ -1,18 +1,20 @@
-<div class="title"><h1>Hi, I'm Abraham Saindou 👋</h1></div>
+<h1 align="center">Hi, I'm Abraham Saindou 👋</h1>
 
-<p class = "para">About me : I'm a 26-years-old French student from La Plateforme_ in Marseille. I would like to become a Software Developer. In my repository you may find projects I have finished and other projects I am still working on it.</p>
+<p class = "para">About me : I'm a 26-years-old French student from La Plateforme_ in Marseille. I would like to become a Software Developer. <br>In my repository you may find projects I have finished, and other projects I am still working on it.</p>
+<p>- 🔭 I’m currently working on a vending machine coded in C++ and MySql.</p>
+<a href="https://github.com/abraham-saindou/Distributeur">Link to the project</a>
+
 
 Contacts : 
 <a href="https://www.linkedin.com/in/abraham-saindou">LinkedIn</a>
 
 abraham.saindou@laplateforme.io
+<h3 align="center">My Skills</h3>
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cmake,py,java,mysql,js,html,css,git)](https://skillicons.dev)
 
-Skills : My Skills My Skills
-
-See you soon ! wave
+See you soon ! 👋
 
 <!--
-**abraham-saindou/abraham-saindou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,12 +24,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-
-.para{
-background-color: black;
-}
-
-.title{
-text-align: center;
-background-color: black;
-}
