@@ -9,7 +9,7 @@
   </a>
 </p>
 
-Contacts : 
+Contact : 
 <a href="https://www.linkedin.com/in/abraham-saindou">LinkedIn</a>
 
 abraham.saindou@laplateforme.io
